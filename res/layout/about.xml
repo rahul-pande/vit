@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical"
+    android:visibility="visible" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/about"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text="Vishwakarma Institute of Technology, Pune a highly commendable private institute, occupies a place of pride amongst the premier technical institutes of the western region of India. Established in year 1983, financed and run by the Bansilal Ramanath Agrawal Charitable Trust,Pune. It is affiliated to Pune University. Within two decades, the institute marched towards the pinnacle of glory through its remarkable achievements and laurels in the field of engineering education of a high calibre. According to Indian mythology, &apos;Vishwakarma&apos; was a divine architect-engineer. It is believed that He fashioned this world with His rare engineering skill. The Trust adopted this name with a vision to develop engineers of high caliber, who could take up challenges of any type of an engineering job and make it a grand success, guided by originality and professionalism. Vishwakarma Institute of Technology is one of the leading autonomous Institutes affiliated to University of Pune. It is started in 1983 with an objectives to impart quality technical education for the overall development of students and latest need of Society in general and Industry in particular." />
+    </LinearLayout>
+
+</ScrollView>
