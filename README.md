@@ -9,7 +9,7 @@
 ## Important Note:
 The app no longer works since it is dependent on the website and the website has changed a lot over the years. However, making it to work should be fairly easy.
 
-## Screenshots
+## Screenshots:
 
 ![scr1](scr1.png)
 
