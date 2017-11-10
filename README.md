@@ -11,4 +11,8 @@ The app no longer works since it is dependent on the website and the website has
 
 ## Screenshots
 
-![scr1](scr1.png) ![scr2](scr2.png) ![scr3](scr3.png)
+![scr1](scr1.png)
+
+![scr2](scr2.png)
+
+![scr3](scr3.png)
