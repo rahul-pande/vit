@@ -11,4 +11,6 @@ The app no longer works since it is dependent on the website and the website has
 
 ## Screenshots
 
-![scr1](scr1.png)
+![scr1](scr1.png =100x20)
+![scr2](scr2.png =100x20)
+![scr3](scr3.png =100x20)
